@@ -1,0 +1,25 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-multimodalaichatbot-staging-12109-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851725572809:role/amplify-multimodalaichatbot-staging-12109-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851725572809:role/amplify-multimodalaichatbot-staging-12109-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-multimodalaichatbot-staging-12109-deployment",
+      "UnauthRoleName": "amplify-multimodalaichatbot-staging-12109-unauthRole",
+      "StackName": "amplify-multimodalaichatbot-staging-12109",
+      "StackId": "arn:aws:cloudformation:us-east-1:851725572809:stack/amplify-multimodalaichatbot-staging-12109/3015c050-bbe9-11ee-b29c-12d08bb1f9dd",
+      "AmplifyAppId": "d3jnnyu0m258ku"
+    },
+    "categories": {
+      "auth": {
+        "multimodalaichatbot": {
+          "nativeClientId": "vtmgv7btajlpn376j28kut1s5",
+          "userPoolId": "us-east-1_uIm0Cu6lu",
+          "userPoolName": "multimodal-ai-chatbot",
+          "webClientId": "vtmgv7btajlpn376j28kut1s5"
+        }
+      }
+    }
+  }
+}
